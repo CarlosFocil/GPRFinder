@@ -2,7 +2,8 @@
 GPRFinder is a homology-based tool for finding gene-reaction association rules of genes missing in Genome-scale Metabolic Models (GEMs). The tool compares the whole genome of your model (target) versus the genome of a model from the BiGG database (template), and extracts bi-directional best hits (BBHs) with a provided PID threshold. It generates a table in CSV format containing the ID of the orthologous genes (target vs. template) with information on the reactions (Reaction ID, name, subsystem, and string) in which the template genes participate. This table can be used to accelerate gap-filling and curation processes of GEMs.
 
 ## Usage
-Example on how to run GPRFinder using the _E. coli_ model (iML1515) as a template, with an 80% PID threshold and 4 threads for the BLAST algorithm
+
+Example of how to run GPRFinder using the _E. coli_ model (iML1515) as a template, with an 80% PID threshold and 4 threads for the BLAST algorithm
 ```
 python GPR_Finder.py \
 -template_model iML1515 \
