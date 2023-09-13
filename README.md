@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 Clone the repository on your system:
 ```
-git clone https://github.com/CarlosFocil/GPRtest.git
+git clone https://github.com/CarlosFocil/GPRFinder.git
 ```
 To install the Python requirements, change to the GPRFinder directory and run:
 ```
