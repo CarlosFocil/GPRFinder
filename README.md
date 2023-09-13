@@ -13,11 +13,7 @@ python GPR_Finder.py \
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-1. Clone the git repository on your system.
-2. Put your model into the main directory of GPRFinder.
-3. Put the genome of your model into the 'genomes' folder.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Installing
 Clone the repository on your system:
