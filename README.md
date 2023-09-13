@@ -33,6 +33,7 @@ mv path/to/your_model_file.json path/to/GPRFinder
 mv path/to/your_genome.gb path/to/GPRFinder/genomes
 
 Note: Make sure the genome of your model is located in the genomes directory inside the GPRFinder directory
+```
 
 ## License
 
